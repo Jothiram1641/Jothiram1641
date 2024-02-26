@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jothiram1641
 - 👀 I’m interested in C programming
-- 🌱 I’m currently learning CS50
 - 💞️ I’m looking for a job.
 - 📫 How to reach me - @jothiramn1641@gmail.com
 
